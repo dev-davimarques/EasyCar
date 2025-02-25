@@ -1,4 +1,4 @@
-// Importando das imagens /src/assets
+// Importando de /src/assets
 
 import bg from "../assets/background.png";
 import car from "../assets/car.png";
