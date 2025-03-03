@@ -9,7 +9,7 @@ function Home(props){
         props.navigation.navigate("passenger");
     }
     function OpenRide(){
-        Alert.alert("Abrir tela de motoristas...");
+        props.navigation.navigate("ride")
         // props.navigation.navigate("passenger");
     }
 

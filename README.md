@@ -38,3 +38,9 @@
 
 ### 1º passo
 - npm install @react-navigation/native-stack
+
+### 2 passo
+- npm install react-native-maps
+
+### 3 passo
+- npx expo install expo-location
